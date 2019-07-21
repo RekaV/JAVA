@@ -1,0 +1,14 @@
+package com.letstartcoding.dao;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.letstartcoding.repository.EmployeeRepository;
+
+public class EmployeeDAO {
+	
+	@Autowired
+	EmployeeRepository	employeeRepository;
+	
+	
+
+}

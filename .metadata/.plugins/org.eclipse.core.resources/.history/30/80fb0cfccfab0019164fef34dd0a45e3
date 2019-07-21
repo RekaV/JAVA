@@ -1,0 +1,5 @@
+package com.letstartcoding.dao;
+
+public class EmployeeDAO {
+
+}

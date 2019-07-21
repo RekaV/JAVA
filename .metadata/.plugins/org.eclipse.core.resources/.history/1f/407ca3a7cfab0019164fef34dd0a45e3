@@ -1,0 +1,5 @@
+package com.letstartcoding.repository;
+
+public class EmployeeRepository {
+
+}
